@@ -1,0 +1,5 @@
+.vs
+/AreaLib/bin
+/AreaLib/obj/
+/AreaLib.Tests/obj/
+/AreaLib.Tests/bin/
